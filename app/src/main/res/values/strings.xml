@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">reweScanMod</string>
+    <string name="app_module_summary">Xposed Module to enable broadcast scanning in the REWE app</string>
+</resources>
